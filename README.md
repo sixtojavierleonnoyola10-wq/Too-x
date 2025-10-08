@@ -4,7 +4,7 @@ pkg install git
 
 git clone https://github.com/sixtojavierleonnoyola10-wq/Too-x.git
 
-cd Tool-X
+cd Too-x
 
 chmod +x install.aex
 
